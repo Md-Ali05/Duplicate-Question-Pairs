@@ -5,3 +5,5 @@
 ## Manually added fuzzy features
 - Pair Plot
 - ![](https://github.com/Md-Ali05/Duplicate-Question-Pairs/blob/main/Fuzzy%20pair%20plot.png)
+## Dataset Link
+- [Kaggle](https://www.kaggle.com/c/quora-question-pairs)
